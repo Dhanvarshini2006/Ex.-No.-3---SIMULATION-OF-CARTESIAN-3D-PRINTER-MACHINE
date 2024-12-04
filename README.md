@@ -62,6 +62,10 @@
 
 ### Name: DHAN VARSHINI J P
 ### Register Number:24900197
+``` python
+import numpy as np
 
+
+```
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
